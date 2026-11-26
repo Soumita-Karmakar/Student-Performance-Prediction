@@ -184,7 +184,3 @@ The system provides:
 MCA Student | Brainware University
 
 GitHub: [Soumita-Karmakar](https://github.com/Soumita-Karmakar)
-
----
-
-*This project was developed as part of academic work on Machine Learning and Student Performance Analysis.*
